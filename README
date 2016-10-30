@@ -1,0 +1,4 @@
+# Maze Solver
+
+Generates a maze using depth first search, then proceeds to solve it
+using A*
